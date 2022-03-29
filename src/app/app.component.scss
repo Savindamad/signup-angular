@@ -1,0 +1,38 @@
+:host ::ng-deep {
+    .p-inputtext {
+        width: 16rem;
+    }
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.info-text {
+    width: 20rem;
+    font-size: 0.75rem;
+    a {
+        text-decoration:none;
+        font-weight: bold;
+        color: inherit;
+    }
+}
+
+.btn-signup {
+    width: 16rem;
+}
+
+.btn-facebook {
+    background-color: #3b5998 !important;
+    border-color: #3b5998 !important;
+}
+
+.btn-google {
+    background-color: #dd4b39;
+    border-color: #dd4b39 !important;
+}
+
+.btn-twitter {
+    background-color: #55acee;
+    border-color: #55acee !important;
+}
